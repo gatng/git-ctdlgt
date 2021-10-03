@@ -1,4 +1,4 @@
-package vn.tuan3;
+package vn.nguyenthanhdat2004110046.tuan3;
 
 public class maytinh {
     String nhasx, heDieuHanh, namSx, namBh,ram, cpu;
