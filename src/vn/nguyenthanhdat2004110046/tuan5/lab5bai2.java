@@ -6,7 +6,7 @@ public class lab5bai2 {
     static Scanner scanner = new Scanner(System.in);
     static ArrayList <String> list = new ArrayList<String>();
     static void Menu(){
-        System.out.println("---------------MENU----------------");
+        System.out.println("---------------MENU---------------");
         System.out.println(">>1. Nhập danh sách họ và tên.");
         System.out.println(">>2. Xuất danh sách vừa nhập.");
         System.out.println(">>3. Xuất danh sách ngẫu nhiên.");

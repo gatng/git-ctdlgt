@@ -31,6 +31,6 @@ public class lab5bai1 {
         for (int i = 0; i < n; i++) {
             sum += array[i];
         }
-        System.out.println("\nTổng các phần tử có trong mảng = " + sum);
+        System.out.println("\nTổng các phần tử  trong mảng = " + sum);
 }
 }
