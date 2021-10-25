@@ -8,7 +8,7 @@ public class AppleLinkedlist {
 
     public AppleLinkedlist(){}
     
-    //xây dựng thêm hàm
+     
     void add(int ID, int khoiluong, String color){
         
         Apple2 newApple2 = new Apple2(ID, khoiluong, color, newApple2);
