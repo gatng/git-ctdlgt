@@ -10,7 +10,7 @@ public class AppleLinkedlist {
     
     //xây dựng thêm hàm
     void add(int ID, int khoiluong, String color){
-        //tạo 1 note mới
+        
         Apple2 newApple2 = new Apple2(ID, khoiluong, color, newApple2);
 
 
